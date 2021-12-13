@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattenExercise1", "FactoryPattenExercise1\FactoryPattenExercise1.csproj", "{F654A440-4FEF-4A8E-93FA-2E4744D13836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F654A440-4FEF-4A8E-93FA-2E4744D13836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F654A440-4FEF-4A8E-93FA-2E4744D13836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F654A440-4FEF-4A8E-93FA-2E4744D13836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F654A440-4FEF-4A8E-93FA-2E4744D13836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAECBCE1-073F-4B0C-A3C1-DDE675ECC1E8}
+	EndGlobalSection
+EndGlobal

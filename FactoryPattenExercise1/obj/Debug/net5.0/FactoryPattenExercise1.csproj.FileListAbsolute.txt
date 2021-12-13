@@ -1,0 +1,16 @@
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\bin\Debug\net5.0\FactoryPattenExercise1.exe
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\bin\Debug\net5.0\FactoryPattenExercise1.deps.json
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\bin\Debug\net5.0\FactoryPattenExercise1.runtimeconfig.json
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\bin\Debug\net5.0\FactoryPattenExercise1.runtimeconfig.dev.json
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\bin\Debug\net5.0\FactoryPattenExercise1.dll
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\bin\Debug\net5.0\ref\FactoryPattenExercise1.dll
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\bin\Debug\net5.0\FactoryPattenExercise1.pdb
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\obj\Debug\net5.0\FactoryPattenExercise1.csproj.AssemblyReference.cache
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\obj\Debug\net5.0\FactoryPattenExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\obj\Debug\net5.0\FactoryPattenExercise1.AssemblyInfoInputs.cache
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\obj\Debug\net5.0\FactoryPattenExercise1.AssemblyInfo.cs
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\obj\Debug\net5.0\FactoryPattenExercise1.csproj.CoreCompileInputs.cache
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\obj\Debug\net5.0\FactoryPattenExercise1.dll
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\obj\Debug\net5.0\ref\FactoryPattenExercise1.dll
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\obj\Debug\net5.0\FactoryPattenExercise1.pdb
+C:\Users\mcwat\Desktop\Repos\FactoryPattenExercise1\FactoryPattenExercise1\obj\Debug\net5.0\FactoryPattenExercise1.genruntimeconfig.cache
